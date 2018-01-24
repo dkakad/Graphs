@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\deepa\onedrive\documents\visual studio 2015\projects\trees\trees\main.cpp(6): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\deepa\onedrive\documents\visual studio 2015\projects\trees\trees\main.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Trees.vcxproj -> c:\users\deepa\onedrive\documents\visual studio 2015\Projects\Trees\Debug\Trees.exe
+  Trees.vcxproj -> c:\users\deepa\onedrive\documents\visual studio 2015\Projects\Trees\Debug\Trees.pdb (Full PDB)
